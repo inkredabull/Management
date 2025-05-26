@@ -126,7 +126,7 @@ Simplified, that boils down to a few high-level objectives:
 * Build for scale
 * Improve performance
 * Enhance quality
-* Hire/retain top talent
+* Cultivate an A-team
 
 ## Expectations of Team
 
