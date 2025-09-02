@@ -9,6 +9,7 @@ Table of Contents
       * [As a Directive Leader](#as-a-directive-leader)
       * [As a Visionary Leader](#as-a-visionary-leader)
    * [First Principles](#first-principles)
+      * [KISS : Keep It Simple Silly](#kiss-keep-it-simple-silly)
       * [Crawl. Walk. Run.](#crawl-walk-run)
       * [Don't Boil the Ocean.](#dont-boil-the-ocean)
       * [Form Follows Function.](#form-follows-function)
@@ -65,6 +66,9 @@ A favorite quote attributed to Antoine de Saint-Exupéry - paraphrased - is: “
 ## First Principles
 
 Over the years, I’ve adopted a few mantras you’re likely to hear me repeat. 
+
+### KISS : Keep It Simple Silly
+Tried-and-true; this idea never gets old. 
 
 ### Crawl. Walk. Run.
 I got this from a friend / teammate years ago and have found no better abstraction to help teams from getting ahead of themselves.
@@ -140,7 +144,7 @@ I prize ego-free leadership and while looking to foster a culture of trust and r
 
 ### Meetings have agendas
 
-Meetings need to 1) have and 2) follow agendas.  Sure, there can be space made for ad hoc discussions but I've far too often been in meetings that ran too long and wasted too much time  because there were lots of opinions and no focus. Agendas help provide focus. 
+Meetings need to 1) have and 2) follow agendas.  Sure, there can be space made for ad hoc discussions but I've far too often been in meetings that ran too long and wasted too much time  because there were lots of opinions and no focus. Agendas help provide focus and help avoid bikeshedding.
 
 ### Notes get taken
 
